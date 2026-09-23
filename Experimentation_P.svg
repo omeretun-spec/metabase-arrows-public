@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <!-- Circular Light Blue Background -->
+  <circle cx="100" cy="100" r="90" fill="#d9e6eb"/>
+  
+  <!-- Experimentation / Flask Icon -->
+  <g fill="none" stroke="#1d2a32" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Erlenmeyer Flask Outline -->
+    <path d="M 85,55 L 115,55 M 92,55 L 92,80 L 65,135 C 60,145 68,155 80,155 L 120,155 C 132,155 140,145 135,135 L 108,80 L 108,55" />
+    
+    <!-- Flask Liquid Base Line -->
+    <path d="M 73,122 C 85,115 115,130 127,122" stroke="#13697d" stroke-width="6"/>
+  </g>
+  
+  <!-- Bubbles coming out of the flask -->
+  <circle cx="95" cy="42" r="4" fill="#13697d"/>
+  <circle cx="106" cy="32" r="3" fill="#13697d"/>
+  <circle cx="98" cy="22" r="2" fill="#13697d"/>
+</svg>
